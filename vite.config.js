@@ -7,11 +7,11 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, "index.html"),
-        about: resolve(__dirname, "pages/about.html"),
-        contact: resolve(__dirname, "pages/contact.html"),
-        login: resolve(__dirname, "pages/login.html"),
-        products: resolve(__dirname, "pages/products.html"),
-        profile: resolve(__dirname, "pages/profile.html"),
+        about: resolve(__dirname, "about.html"),
+        contact: resolve(__dirname, "contact.html"),
+        login: resolve(__dirname, "login.html"),
+        products: resolve(__dirname, "products.html"),
+        profile: resolve(__dirname, "profile.html"),
       },
     },
   },
