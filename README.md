@@ -1,9 +1,9 @@
 # COIS-3420-Assignment-2
 Simple web application for school assignment with user auth and DB storage
 
-## Assignment 2 
-## Ecommerce Store – ReadMe.
-## Luka Piplica
+* Assignment 2 
+* Ecommerce Store – ReadMe.
+* Luka Piplica
 
 ## Setup and Run
 To get my project set up and run on any computer or operating system, download the source code (ecommerce-store), head into the directory, and run `npm i` to install all the packages. Next, run the command `npm run dev` to get the website running and click the link to view the web page.
